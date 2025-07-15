@@ -12,15 +12,15 @@
 
 # Education
 - University
-  * **Mindanao State University-Iligan Institute of Technology (MSU-IIT)**-- Bachelor of Science in Mathematics (2011-2015)
+  * **Mindanao State University-Iligan Institute of Technology (MSU-IIT)**-Bachelor of Science in Mathematics (2011-2015)
     
 - High School
     ***Marcela T. Mabanta Memorial National High School**(2011) | **Valedictorian**
 - Elementary
-    **Kawit Oriental Elementary School**(2007)| **Valedictorian**
+    **Kawit Oriental Elementary School**(2007) | **Valedictorian**
 
 # Work History
-- Workplace 1
+- **Academic Specialist for Mathematics**- Zeveral Academic Consultants Inc., _Pasig Philippines_
 - Workplace 2
 - Workplace 3
   
