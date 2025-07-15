@@ -13,11 +13,15 @@
 # Education
 - University
   * **Mindanao State University-Iligan Institute of Technology (MSU-IIT)**-- Bachelor of Science in Mathematics (2011-2015)
+    
 - High School
     ***Marcela T. Mabanta Memorial National High School**
-            2007-2011
+            2011
           **Valedictorian**
-- University
+- Elementary
+    **Kawit Oriental Elementary School**
+            2007
+        **Valedictorian**
 
 # Work History
 - Workplace 1
