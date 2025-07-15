@@ -11,7 +11,8 @@
   - Links
 
 # Education
-- Elementary
+- University
+  * MSU-IIT
 - High School
 - University
 
