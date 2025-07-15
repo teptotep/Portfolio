@@ -7,8 +7,8 @@
 
 
 ### Project 2
-  -Description
-  -Links
+  - Description
+  - Links
 
 # Education
 - Elementary
