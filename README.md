@@ -12,7 +12,7 @@
 
 # Education
 - University
-  * MSU-IIT
+  > MSU-IIT
 - High School
 - University
 
