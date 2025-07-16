@@ -16,7 +16,7 @@
     
 - High School
   * **Marcela T. Mabanta Memorial**
-    ** National High School** | _Valedictorian_ (2011)
+    **National High School** | _Valedictorian_ (2011)
 - Elementary
   * **Kawit Oriental Elementary School**  | _Valedictorian_ (2007)
 
