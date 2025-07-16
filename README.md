@@ -20,7 +20,7 @@
   * **Kawit Oriental Elementary School**  | _Valedictorian_ (2007)
 
 # Work History
-- **Academic Specialist for Mathematics**- Zeveral Academic Consultants Inc., _Pasig Philippines_
-- Workplace 2
-- Workplace 3
+- **Academic Specialist for Mathematics**- _Zeveral Academic Consultants Inc._, Pasig Philippines (Aug 2015 - June 2019)
+- **Mathematics Online Tutor/Academic Specialist for Math**- _Acader Solutions_, Pasig Philippines (June 2019 - Jan 2020)
+- **Content Developer (Mathematics and Statistics)**-_Emapta Course Hero_, Makati Philippines (May 2020 - April 2025)
   
