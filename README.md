@@ -2,7 +2,7 @@
 
 ## Projects
 ### Project 1
-  - Description
+  - A beginner-friendly project demonstrating SQL for analyzing retail sales data, performing EDA, and answering business questions.
   - [SQL: Retail Sales Analysis](https://github.com/teptotep/sql_retail_sales_proj1.git)
 
 
