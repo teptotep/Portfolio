@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
   - Description
-  - Links
+  - [SQL_retail_sales_proj](https://github.com/teptotep/sql_retail_sales_proj1.git)
 
 
 ### Project 2
